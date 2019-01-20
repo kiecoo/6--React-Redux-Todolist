@@ -1,0 +1,121 @@
+body{
+    margin: 0px;
+    background: darkgrey;
+}
+.fullscreen-header{
+    background: white;
+}
+.fullscreen-header img{
+    margin: 10px 0;
+    width: 50vw;
+  }
+.logo {
+    height: 75px;
+}
+#topBlock{
+    background: grey;
+    height: 75px;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.bookMark{
+    background: grey;
+    color: white;
+    text-align: center;
+    font-size: 24px;
+    height: 75px;
+    width: 220px;
+    border:none;
+}
+
+.select_bookMark{
+    background: pink;
+    color: black;
+    border:none;
+}
+
+.pic_bookmark{
+    margin-right: 5px;
+}
+
+
+.alignCenter{
+    text-align: center;
+}
+
+#addTask{
+    width: 620px;
+    height: 65px;
+    font-size: 24px;
+    color: #4b4a4a;
+    border: 2px solid #C8C8C8;
+    border-radius: 5px;
+    outline: none;
+}
+
+.inputTasksForm{
+    width: 620px;
+    margin: 0 auto;
+}
+
+.inputTaskTitle{
+    width: 620px;
+    height: 75px;
+    background: #F2F2F2;
+    margin:0px auto;
+    text-align: left;
+    border-bottom:solid 3px #C8C8C8 ;
+    
+}
+
+.taskTitle{
+    background: #F2F2F2;
+    border:none;
+    height: 28px;
+    width: 360px;
+    font-size: 24px;
+    margin: 25px;
+    outline-color:#5a5858;
+}
+
+.taskChk{
+    margin-left: 20px;
+    zoom: 2;
+}
+
+.icon{
+    margin-left: 20px;
+}
+
+.list{
+    background: #F2F2F2;
+    height: 80px;
+    width: 620px;
+    border-radius: 5px;
+    text-align: left;
+}
+
+.listBlock{
+    margin-top: 20px;
+}
+
+.countText{
+    margin:10px 5px;
+    text-align: left;
+    font-size: 24px;
+    color: #4b4a4a;
+}
+
+.complete{
+    text-decoration: line-through;
+    color: #9B9B9B;
+}
+
+.important{
+    background: #FFF2DC;
+}
+
+.iconImportant{
+    color: #F5A623;
+}
